@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1643693472 source:c:\desktop\phone management\phone management ads\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	<fstream>
+	<conio.h>
+	<iomanip>
+	<cctype>
+	<regex>
+
